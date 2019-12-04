@@ -1,4 +1,4 @@
-module github.com/xuziyan/gorm
+module github.com/xuziyan001/gorm
 
 go 1.12
 
