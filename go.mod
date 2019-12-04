@@ -8,6 +8,7 @@ require (
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/jinzhu/inflection v1.0.0
 	github.com/jinzhu/now v1.0.1
-	github.com/lib/pq v1.1.1
+	github.com/lib/pq v1.2.0 // indirect
 	github.com/mattn/go-sqlite3 v1.11.0
+	github.com/xuziyan001/pq v1.2.2
 )
